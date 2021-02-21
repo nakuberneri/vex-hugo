@@ -8,7 +8,7 @@ description: this is a meta description
 What do you need? You have two options
 
 * A computer and microphone
-* An iphone or ipad
+* A mobile phone
 
 After that, you can start to think about the recording location. Choose a quiet room and place yourself near soft furnishings and avoid placing your mic near hard surfaces or windows.
 
