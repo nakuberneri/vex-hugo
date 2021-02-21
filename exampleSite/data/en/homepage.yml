@@ -23,10 +23,9 @@ features:
     icon: tf-ion-ios-bell-outline
     content: We have a lot of offers, just for everyday songs or for what you think
       are great works of art that you want to invest a little more in.
-  - title: Easy Pricing
+  - title: Mixing
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: We can mix any style, the fewer channels, the less money you spend mixing.
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
