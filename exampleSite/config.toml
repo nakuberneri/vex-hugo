@@ -11,9 +11,9 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = ""
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
+languageCode = ""
 languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
@@ -58,9 +58,9 @@ weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "£"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "/images/screen-shot-2021-02-21-at-16-10-53.jpg"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
