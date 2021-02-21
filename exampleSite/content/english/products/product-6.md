@@ -1,11 +1,11 @@
 ---
 title: Mastering
-date: 2019-10-17T11:22:16.000+06:00
+date: 
 images:
 - "/images/icono-master.png"
 description: mastering with Ghostie
-price: "0"
-discount_price: "0"
+price: '0'
+discount_price: '0'
 colors: []
 sizes: []
 
