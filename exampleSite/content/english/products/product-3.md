@@ -1,10 +1,10 @@
 ---
 title: Music Production
-date: 2019-10-17T11:22:16.000+06:00
+date: 
 images:
 - "/images/icono-prepro.png"
 description: music production with Ghostie
-price: "50"
+price: '50'
 discount_price: ''
 colors: []
 sizes: []
