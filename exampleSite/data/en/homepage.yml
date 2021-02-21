@@ -41,11 +41,10 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Produced by professionals, the benefits of industry workers
+  content: Every day we work on all the new or old sounds by mixing them or just looking
+    for a certain mood. We know how to get there, we've been there. Make your music
+    career a little easier with the help of the experts.
 about_product:
   enable: true
   title: Why Choose Apple Watch
