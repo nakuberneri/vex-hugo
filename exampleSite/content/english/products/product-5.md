@@ -1,25 +1,49 @@
 ---
-title: "Redmi Watch"
-date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
-images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Mixing
+date: 2019-10-17T11:22:16.000+06:00
+image: images/showcase/showcase-5.png
+images:
+- "/images/icono-mezcla.png"
+description: mixing with Ghostie
+price: '30.00'
+discount_price: '25.00'
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Mix up to 8 tracks per song £30
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+* one vocal track tuning and edit included
+* up to one revision included
+* acapella and backing track mixdown included
+
+Mix up to 16 tracks per song £40
+
+* three vocal track tuning and edit included
+* up to two revisions included
+* acapella and backing track mixdown included
+
+Mix up to 32 tracks per song £60
+
+* six vocal track tuning and edit included
+* up to three revisions included
+* acapella and backing track mixdown included
+
+  
+Mix up to 64 tracks per song £80
+
+* up to twelve vocal track tuning and edit included
+* up to three revisions included
+* acapella and backing track mixdown included
+
+Mix up to 120 tracks per song £100
+
+* up to twenty four vocal track tuning and edit included
+* up to four revisions included
+* acapella and backing track mixdown included
