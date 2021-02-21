@@ -4,16 +4,10 @@ date: 2019-10-17T11:22:16.000+06:00
 images:
 - "/images/icono-prepro.png"
 description: music production with Ghostie
-price: '30.00'
-discount_price: '25.00'
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+price: "50"
+discount_price: ''
+colors: []
+sizes: []
 
 ---
 Music production is our flagship product, it has never been so economical to have a song produced, mixed and mastered as with our combos. You can choose the one that best suits your pocket, here our offers.
