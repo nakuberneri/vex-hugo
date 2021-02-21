@@ -49,7 +49,7 @@ about_product:
   enable: true
   title: Why mixing or mastering with Ghostie?
   items:
-  - image: images/showcase/showcase-4.png
+  - image: "/images/icono-mezcla.png"
     title: Mixing With Ghostie
     content: Speed ​​and quality characterize us, you will feel that you have never
       achieved such a good sound in such a short time. We have differentiated options
