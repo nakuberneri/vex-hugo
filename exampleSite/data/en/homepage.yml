@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: images/watch-2.png
+  image: "/images/masteringtable.jpg"
   left_side:
   - title: Production on demand
     icon: tf-ion-ios-alarm-outline
