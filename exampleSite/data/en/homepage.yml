@@ -58,7 +58,7 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
+  - image: "/images/icono-master.png"
     title: Mastering with Ghostie
     content: The best price in the industry for jobs in record time that adapt to
       all the digital platforms and physical media. Mastering with us is as easy as
