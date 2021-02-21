@@ -34,10 +34,10 @@ features:
   - title: Satisfaction Guarantee
     icon: tf-ion-ios-bell-outline
     content: If the work is not to your liking, we will give you a full refund.
-  - title: Easy Pricing
+  - title: Trendy or Under
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: We can deal with both mainstream music and any avant-garde experimental
+      sound, we are prepared for anything.
 promo:
   enable: true
   image: images/watch.png
