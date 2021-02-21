@@ -40,7 +40,7 @@ features:
       sound, we are prepared for anything.
 promo:
   enable: true
-  image: images/watch.png
+  image: "/images/icono-prepro.png"
   title: Produced by professionals, the benefits of industry workers
   content: Every day we work on all the new or old sounds by mixing them or just looking
     for a certain mood. We know how to get there, we've been there. Make your music
