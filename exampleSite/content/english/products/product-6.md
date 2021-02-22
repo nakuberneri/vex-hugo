@@ -5,8 +5,9 @@ images:
 - "/images/audio-mastering-rack-background.jpg"
 - "/images/icono-master.png"
 description: mastering with Ghostie
+
 ---
-Mastering per track £30
+Mastering per track £31
 
 * two revisions included
 * up to two sample rate or bit depth renders
