@@ -1,6 +1,5 @@
 ---
 title: Music Production
-date: 
 images:
 - "/images/singing.jpg"
 description: music production with Ghostie
