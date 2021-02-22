@@ -74,7 +74,7 @@ subscription:
   enable: true
   bg_image: "/images/audio-mastering-rack-background.jpg"
   title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  content: Join our email newsletter and get great recording and production tips :)
   placeholder: Your Email Address Here
 testimonial:
   enable: false
