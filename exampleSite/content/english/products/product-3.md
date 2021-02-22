@@ -4,10 +4,6 @@ date:
 images:
 - "/images/singing.jpg"
 description: music production with Ghostie
-price: '50'
-discount_price: ''
-colors: []
-sizes: []
 
 ---
 Music production is our flagship product, it has never been so economical to have a song produced, mixed and mastered as with our combos. You can choose the one that best suits your pocket, here our offers.
