@@ -2,6 +2,7 @@
 title: Mastering
 date: 
 images:
+- "/images/audio-mastering-rack-background.jpg"
 - "/images/icono-master.png"
 description: mastering with Ghostie
 price: '0'

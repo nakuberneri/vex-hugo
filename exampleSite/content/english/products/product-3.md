@@ -2,6 +2,7 @@
 title: Music Production
 date: 
 images:
+- "/images/singing.jpg"
 - "/images/icono-prepro.png"
 description: music production with Ghostie
 price: '50'

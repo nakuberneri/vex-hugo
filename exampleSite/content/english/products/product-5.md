@@ -3,6 +3,7 @@ title: Mixing
 date: 
 image: images/showcase/showcase-5.png
 images:
+- "/images/masteringtable.jpg"
 - "/images/icono-mezcla.png"
 description: mixing with Ghostie
 price: '30.00'
