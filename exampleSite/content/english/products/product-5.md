@@ -18,7 +18,7 @@ sizes:
 - large
 
 ---
-Mix up to 8 tracks per song £30
+Mix up to 8 tracks per song £32
 
 * one vocal track tuning and edit included
 * up to one revision included
