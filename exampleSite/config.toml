@@ -10,12 +10,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = ""
-languageName = "Fr"
-weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
