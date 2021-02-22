@@ -6,16 +6,10 @@ images:
 - "/images/masteringtable.jpg"
 - "/images/icono-mezcla.png"
 description: mixing with Ghostie
-price: '30.00'
-discount_price: '25.00'
-colors:
-- black
-- white
-- gray
-sizes:
-- small
-- medium
-- large
+price: ''
+discount_price: ''
+colors: []
+sizes: []
 
 ---
 Mix up to 8 tracks per song £32
